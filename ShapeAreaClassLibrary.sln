@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaClassLibrary", "ShapeAreaClassLibrary\ShapeAreaClassLibrary.csproj", "{44F8F9BD-4064-464E-A8FC-243A0B0BC494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaClassLibrary.Test", "ShapeAreaClassLibrary.Test\ShapeAreaClassLibrary.Test.csproj", "{2719DE87-C4CA-4456-81AF-9E1BE24D1834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{8ED0013E-D685-43B8-A218-BC464F8012F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F8F9BD-4064-464E-A8FC-243A0B0BC494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F8F9BD-4064-464E-A8FC-243A0B0BC494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F8F9BD-4064-464E-A8FC-243A0B0BC494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F8F9BD-4064-464E-A8FC-243A0B0BC494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2719DE87-C4CA-4456-81AF-9E1BE24D1834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2719DE87-C4CA-4456-81AF-9E1BE24D1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2719DE87-C4CA-4456-81AF-9E1BE24D1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2719DE87-C4CA-4456-81AF-9E1BE24D1834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED0013E-D685-43B8-A218-BC464F8012F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED0013E-D685-43B8-A218-BC464F8012F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED0013E-D685-43B8-A218-BC464F8012F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED0013E-D685-43B8-A218-BC464F8012F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
